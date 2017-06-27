@@ -2,10 +2,10 @@
 　このサンプルコードは、2016年10月25日に発売された、書籍「これからつくる iPhoneアプリ開発入門 ～Swiftではじめるプログラミングの第一歩～」の応用編です。
 
 ## サンプルコードのダウンロードについて
-Zipファイルのダウンロードを行ないたい方は、下記を参考にしてください。
-<img src=https://swiftbg.github.io/swiftbook/advanced/TickleCode_MyJyanken_taisen.png width=800 />
-①「Clone or download」をクリックします。
-②「Download ZIP」をクリックしてZIPファイルをダウンロードしてください。
+Zipファイルのダウンロードを行ないたい方は、下記を参考にしてください。  
+<img src=https://swiftbg.github.io/swiftbook/advanced/TickleCode_MyJyanken_taisen.png width=800 />  
+①「Clone or download」をクリックします。  
+②「Download ZIP」をクリックしてZIPファイルをダウンロードしてください。  
 
 ## テキストについて
 　本サンプルコードの解説は、[「これからつくる iPhoneアプリ開発入門」公式サイト](https://swiftbg.github.io/swiftbook/advanced/)にて、公開しています。
